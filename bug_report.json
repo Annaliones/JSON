@@ -1,1 +1,10 @@
-
+{ 
+  "Bug summary":"Заголовок",
+  "Description":"Подробное описание",
+  "Severity":"Серьезность",
+  "Priority":"Приоритет",
+  "Steps to reproduce":"Шаги воспроизведения",
+  "Actual Result":"Актуальный результат",
+  "Expected Result":"Ожидаемый результат",
+  "Build found":"Версия приложения"
+}
